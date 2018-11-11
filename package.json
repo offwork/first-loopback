@@ -31,11 +31,13 @@
     "prepublishOnly": "npm run test"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/offwork/first-loopback"
   },
-  "author": "",
-  "license": "",
+  "author": "@offwork",
+  "license": "MIT",
   "files": [
+    "LICENSE.md",
     "README.md",
     "index.js",
     "index.d.ts",
